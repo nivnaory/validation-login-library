@@ -1,0 +1,3 @@
+include ':lav'
+include ':app'
+rootProject.name = "example"
