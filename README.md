@@ -51,6 +51,10 @@ checkEmail(String email);
 ```Java
 checkPassword(String password);
 ```
+
+
+[![Watch the video](https://www.youtube.com/watch?v=zePqM-iL5fU&t=675s)
+
 ## Credits
 
 
