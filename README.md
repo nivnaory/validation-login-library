@@ -36,7 +36,7 @@ Step 2. call checkEmail and checkPassword function:
 
 
 ## Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/zePqM-iL5fU/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/zePqM-iL5fU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https:https://youtu.be/5qF_qbaWt3Q/0.jpg)](https://www.youtube.com/watch?v=https:https://youtu.be/5qF_qbaWt3Q)
 
 
 ## Functions
