@@ -3,6 +3,7 @@
 
 
 
+Library for checking user creation based on email and password
 
 
 
@@ -42,22 +43,16 @@ Step 3. Add your class in the manifest:
 
 
 **` `**
-**`Store an Integer value`**
+**`Receives the email you want to check and displays a message accordingly
+`**
 ```Java
-Enigma.getInstance().putInt("6",6);
-Enigma.getInstance().putIntSync("6",6);
+checkEmail(String email);
 ```
 
-**`retrieve an Integer Value `**
+**`Receives the email you want to check and displays a message accordingly `**
 ```Java
-```	
-
-**`retrieve an Integer Value with a default value that i choose`**
-```Java
-Enigma.getInstance().getInt("7",7);
-```	
-
-
+checkPassword(String password);
+```
 ## Credits
 
 
