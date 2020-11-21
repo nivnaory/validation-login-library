@@ -1,9 +1,6 @@
 # validation-login-library
 [![](https://jitpack.io/v/nivnaory/validation-login-library.svg)](https://jitpack.io/#nivnaory/validation-login-library)
 
-[![](https://www.youtube.com/watch?v=zePqM-iL5fU&t=675s)
-
-
 Library for checking user creation based on email and password
 
 
