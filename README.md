@@ -26,17 +26,13 @@ dependencies {
 }
 ```
 ## Usage
-Step 1. open a new class: 
+Step 1. create new instance: 
 
-<img src="https://github.com/Dtabaja/Enigma-SharedPreference/blob/master/Application2.JPG" width="500">
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/image1.png" width="500">
 
-Step 2. implement the initHelper Function:
+Step 2. call checkEmail and checkPassword function:
 
-<img src="https://github.com/Dtabaja/Enigma-SharedPreference/blob/master/Application.JPG" width="600">
-
-Step 3. Add your class in the manifest:
-
-<img src="https://github.com/Dtabaja/Enigma-SharedPreference/blob/master/manifest.JPG" width="600">
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/image2.png" width="600">
 
 ## Functions
 
@@ -51,10 +47,6 @@ checkEmail(String email);
 ```Java
 checkPassword(String password);
 ```
-
-
-[![Watch the video](https://www.youtube.com/watch?v=zl4WmDTVrIA&list=PLtIU0BH0pkKoE2PBvgbHEBPAP-sd670VI&index=10)
-
 ## Credits
 
 
