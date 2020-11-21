@@ -34,6 +34,11 @@ Step 2. call checkEmail and checkPassword function:
 
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/image2.png" width="600">
 
+
+## Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/zePqM-iL5fU/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/zePqM-iL5fU)
+
+
 ## Functions
 
 **` `**
