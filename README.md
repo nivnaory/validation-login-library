@@ -53,7 +53,7 @@ checkPassword(String password);
 ```
 
 
-[![Watch the video](https://www.youtube.com/watch?v=zePqM-iL5fU&t=675s)
+[![Watch the video](https://www.youtube.com/watch?v=zl4WmDTVrIA&list=PLtIU0BH0pkKoE2PBvgbHEBPAP-sd670VI&index=10)
 
 ## Credits
 
