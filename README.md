@@ -29,11 +29,11 @@ dependencies {
 Step 1. create new instance of the class 
 
 
-<img src="https://github.com/nivnaory/validation-login-library/blob/master/image1.png">
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/image1.png" width=400>
 
 Step 2. call checkEmail function and checkPassword function:
 
-<img src="https://github.com/Dtabaja/Enigma-SharedPreference/blob/master/Application.JPG" width="600">
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/image2.png" width="600">
 
 
 ## Functions
