@@ -29,7 +29,7 @@ dependencies {
 Step 1. create new instance of the class 
 
 
-<img src="https://github.com/nivnaory/validation-login-library/blob/master/image1.png" width=400>
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/image1.png" width=600>
 
 Step 2. call checkEmail function and checkPassword function:
 
