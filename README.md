@@ -40,8 +40,6 @@ Step 3. Add your class in the manifest:
 
 ## Functions
 
-
-
 **` `**
 **`Receives the email you want to check and displays a message accordingly
 `**
@@ -49,7 +47,7 @@ Step 3. Add your class in the manifest:
 checkEmail(String email);
 ```
 
-**`Receives the email you want to check and displays a message accordingly `**
+**`Receives the password you want to check and displays a message accordingly `**
 ```Java
 checkPassword(String password);
 ```
