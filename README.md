@@ -1,6 +1,8 @@
 # validation-login-library
 [![](https://jitpack.io/v/nivnaory/validation-login-library.svg)](https://jitpack.io/#nivnaory/validation-login-library)
-[![](https://jitpack.io/v/Dtabaja/Enigma-SharedPreference.svg)](https://jitpack.io/#Dtabaja/Enigma-SharedPreference)
+
+
+
 Library for checking user creation based on email and password
 
 
