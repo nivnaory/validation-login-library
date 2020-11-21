@@ -2,10 +2,10 @@
 [![](https://jitpack.io/v/nivnaory/validation-login-library.svg)](https://jitpack.io/#nivnaory/validation-login-library)
 
 
-<img src="https://github.com/Dtabaja/Enigma-SharedPreference/blob/master/enigma3.jpg" width="500">
 
 
-Enigma is a library that encrypt your Shared Sreference with 256AES Encryption.
+
+
 
 ## Setup
 Step 1. Add it in your root build.gradle at the end of repositories:
@@ -122,93 +122,21 @@ Enigma.getInstance().getInt("7",7);
 
 ```	
 
-**`retrieve a String Value with a default value that i choose`**
-```Java
-
-```	
 
 
 
 
 
-**`Store a StringSet Values`**
-```Java
-
-```	
-	
-**`retrieve a StringSet Value`**
-```Java
-
-```	
-
-**`retrieve a StringSet Value with a default value that i choose`**
-```Java
-
-```	
 
 	
 
 
 
-**`Store a HashMap Values`**
-```Java
-
-```	
-
-**`retrieve a HashMap Values`**
-```Java
-
-```	
 
 
 
 
 
-**`Store a ArrayList Values`**
-```Java
-
-```	
-
-**`retrieve a ArrayList Values`**
-```Java
-
-```	
-
-	
-
-
-
-**`retrieve ALL the key:value that are in the Shared Preference`**
-```Java
-
-```	
-
-
-
-
-
-**`Removes All the key:value in the Shared Preference`**
-```Java
-
-```
-
-	
-
-
-
-**`Giving a key, removes the value`**
-```Java
-
-```
-
-	
-
-
-
-**`Giving a key, retrieve true/false if the value in the Shared Preference`**
-```Java
-
-```
 
 
 
@@ -216,7 +144,6 @@ Enigma.getInstance().getInt("7",7);
 
 ## Credits
 
-Enigma picture: https://wordpandit.com/, https://pluviolover.com/2016/10/07/are-you-an-enigma/
 
 
 
