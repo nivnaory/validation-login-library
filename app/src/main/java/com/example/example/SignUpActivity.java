@@ -25,6 +25,8 @@ public class SignUpActivity extends AppCompatActivity {
         });
 
     }
+
+    //fucntion for signUp newUser
     public void SignIn() {
         EditText emailText = findViewById(R.id.email);
         EditText passwordText = findViewById(R.id.password);
@@ -33,5 +35,6 @@ public class SignUpActivity extends AppCompatActivity {
         CredentialsChecker checker=new CredentialsChecker(this);
         if(checker.checkEmail(email))
         checker.checkPassword(password);
+
     }
 }
