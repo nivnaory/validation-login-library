@@ -48,10 +48,31 @@ checkEmail(String email);
 **`Receives the password you want to check and displays a message accordingly `**
 ```Java
 checkPassword(String password);
+
+
 ```
+## display
+1. No email and no password
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/email._empty.png" width=200>
+
+2. email not valid
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/email_not_valid.png" width=200>
+
+3. email valid and password is empty
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_password_empty.png" width=200>
 
 
+4. email valid and password="niv" is to short
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowr_short.png" width=250>
 
+5. email valid and password="nivniv" is not contain uppercase 
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowrd_only_lower.png" width=250>
+
+6. email valid and password="nivnivN" is not contain digit 
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowrd_not_contain_digit.png" width=250>
+
+7. email valid and password="nivnivN6" is valid we get Confirmation  massage 
+<img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowrd_valid.png" width=200>
 
 ## Credits
 
