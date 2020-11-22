@@ -62,16 +62,16 @@ checkPassword(String password);
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_password_empty.png" width=200>
 
 
-4. email valid and password="niv" is too short
+4. email valid and password="abc" is  short
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowr_short.png" width=250>
 
-5. email valid and password="nivniv" is not contain uppercase 
+5. email valid and password="abcabc" is not contain uppercase 
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowrd_only_lower.png" width=250>
 
-6. email valid and password="nivnivN" is not contain digit 
+6. email valid and password="abcabcA" is not contain digit 
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowrd_not_contain_digit.png" width=250>
 
-7. email valid and password="nivnivN6" is valid we get Confirmation  massage 
+7. email valid and password="abcabcA6" is valid we get Confirmation  massage 
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowrd_valid.png" width=200>
 
 ## Credits
