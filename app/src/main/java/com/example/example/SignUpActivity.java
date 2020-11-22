@@ -9,7 +9,8 @@ import android.widget.EditText;
 
 import com.example.lav.CredentialsChecker;
 
-public class LoginActivity extends AppCompatActivity {
+
+public class SignUpActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,9 +30,8 @@ public class LoginActivity extends AppCompatActivity {
         EditText passwordText = findViewById(R.id.password);
         final String email = emailText.getText().toString();
         final String password = passwordText.getText().toString();
-        CredentialsChecker checker = new CredentialsChecker(this);
+        CredentialsChecker checker=new CredentialsChecker(this);
         if(checker.checkEmail(email))
         checker.checkPassword(password);
-
     }
 }
