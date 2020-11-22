@@ -62,7 +62,7 @@ checkPassword(String password);
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_password_empty.png" width=200>
 
 
-4. email valid and password="niv" is to short
+4. email valid and password="niv" is too short
 <img src="https://github.com/nivnaory/validation-login-library/blob/master/email_valid_passowr_short.png" width=250>
 
 5. email valid and password="nivniv" is not contain uppercase 
