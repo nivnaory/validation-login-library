@@ -39,13 +39,13 @@ Step 2. call checkEmail function and checkPassword function:
 ## Functions
 
 **` `**
-**`Receives the email you want to check and displays a message accordingly
+**`Receives the email you want to check and displays a message accordingly return  true if successful
 `**
 ```Java
 checkEmail(String email);
 ```
 
-**`Receives the password you want to check and displays a message accordingly `**
+**`Receives the password you want to check and displays a message accordingly return  true if successful `**
 ```Java
 checkPassword(String password);
 
